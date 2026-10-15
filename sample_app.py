@@ -1,6 +1,10 @@
-# Mock Python File - Commit Version 10
+# Mock Python File - Commit Version 11
 def core_function():
-    print("Running system update version 10")
+    print("Running system update version 11")
+    for x in range(10):
+        print(x)
+    for x in range(10):
+        print(x)
     for x in range(10):
         print(x)
     for x in range(10):
